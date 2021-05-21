@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Aureate-Sunshine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aureate-Sunshine&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aureate-Sunshine&hide=Assembly,Makefile,C++,C&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aureate-Sunshine&hide=Assembly,Makefile,shell,C&theme=buefy&layout=compact" />
 </a>
 
 <br/>
